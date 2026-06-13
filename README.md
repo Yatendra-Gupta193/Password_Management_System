@@ -10,7 +10,7 @@ A Java command-line password management system that lets a user:
 
 ## Features
 - Password generator (includes letters, digits, and symbols)
-- Password validation (length + digit count + special characters + uppercase + lowercase)
+- Password validation (length + digit count + special characters + uppercase + lowercase)            
 - File persistence:
   - `passwordDB.txt` for saved passwords
   - `Memo.txt` for memos
