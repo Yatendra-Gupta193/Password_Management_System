@@ -1,4 +1,4 @@
-# Password Management System (Java CLI)   
+# Password Management System (Java CLI)    
  
 A Java command-line password management system that lets a user:
 - Log in using a **master password**
